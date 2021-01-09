@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile Page (CSE 110 assignment)
 
-You can use the [editor on GitHub](https://github.com/ainesh01/ainesh01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a second year computer engineering major at [UC San Diego](https://ucsd.edu/) and my interests are in programming as well as in finance. I aim to go into a role that ties both of these fields together, like fintech for example.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked in internships in many different fields, from defense to manufacturing and cryptocurrency.
 
 ### Markdown
 
