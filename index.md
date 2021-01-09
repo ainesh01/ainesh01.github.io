@@ -1,11 +1,14 @@
+
+
+
 # Welcome to My Profile Page (CSE 110 assignment)
 
 I'm a second year computer engineering major at [UC San Diego](https://ucsd.edu/) and my interests are in programming as well as in finance. I aim to go into a role that ties both of these fields together, like fintech for example.
 
 I've worked in internships in many different fields, from defense to manufacturing and cryptocurrency.
 
-I like this quote by Henry Ford as it relates to software engineering:
-> Failure is only the opportunity more intelligently to begin again. 
+> bruh
+-Abraham Lincoln, 1938
 
 ## Skills
 
@@ -36,7 +39,10 @@ int main() {
 }
 
 ```
-
+## Life Plan
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
