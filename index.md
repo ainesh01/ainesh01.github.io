@@ -8,6 +8,7 @@ I'm a second year computer engineering major at [UC San Diego](https://ucsd.edu/
 I've worked in internships in many different fields, from defense to manufacturing and cryptocurrency.
 
 > bruh
+
 -Abraham Lincoln, 1938
 
 ## Skills
@@ -40,15 +41,11 @@ int main() {
 
 ```
 ## Life Plan
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [x] Be Born
+- [ ] Graduate from UCSD
+- [ ] Die
+- [ ] Pay off Student Loans
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ainesh01/ainesh01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Important Information
+**this lab** *is a*  ~~bruh moment~~
