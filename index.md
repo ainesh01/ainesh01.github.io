@@ -4,6 +4,10 @@ I'm a second year computer engineering major at [UC San Diego](https://ucsd.edu/
 
 I've worked in internships in many different fields, from defense to manufacturing and cryptocurrency.
 
+I like this quote by Henry Ford as it relates to software engineering:
+>
+Failure is only the opportunity more intelligently to begin again. 
+
 ## Skills
 
 ### Software
