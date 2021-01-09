@@ -1,29 +1,36 @@
-## Welcome to My Profile Page (CSE 110 assignment)
+# Welcome to My Profile Page (CSE 110 assignment)
 
 I'm a second year computer engineering major at [UC San Diego](https://ucsd.edu/) and my interests are in programming as well as in finance. I aim to go into a role that ties both of these fields together, like fintech for example.
 
 I've worked in internships in many different fields, from defense to manufacturing and cryptocurrency.
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software
 
-```markdown
-Syntax highlighted code block
+- Python
+- SQL
+- Java
+- React Native
+- JavaScript
+- C and C++
+- Solidworks
+- Photoshop & Illustrator
+- Microsoft Office
+- Software Certifications
+  - CompTIA IT Fundamentals
 
-# Header 1
-## Header 2
-### Header 3
+### Hardware
 
-- Bulleted
-- List
+- Raspberry Pi
+- Arduino
+- Basic Analog Design
+```
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
