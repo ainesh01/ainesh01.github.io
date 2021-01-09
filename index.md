@@ -13,7 +13,7 @@ I've worked in internships in many different fields, from defense to manufacturi
 
 Please see below a screencap from my favorite video game reviewer:
 
-[img](https://i.redd.it/27zpmnh70xk51.png)
+![](https://i.redd.it/27zpmnh70xk51.png)
 
 
 
